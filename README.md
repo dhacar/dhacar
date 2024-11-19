@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakariye Mohamud Ali</h1>
 <h3 align="center">A passionate frontend developer from somalia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/116207..."](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQG25wZZR8ISMA%2Ffeedshare-shrink_2048_1536%2Ffeedshare-shrink_2048_1536%2F0%2F1721657503896%3Fe%3D2147483647%26v%3Dbeta%26t%3DBEYcudUkOaCcBKaTY-A1XKQpOs91LEecfCldFJ_2dsc&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmanimaranr_v2soft-azurenet-sapibpabap-activity-7221154969138122753-rOO9&docid=Av5ZyWSP8VzP5M&tbnid=sgHlahCx9OOyOM&vet=12ahUKEwi95e6piuiJAxX0gf0HHey3MUw4ChAzegQIZBAA..i&w=640&h=640&hcb=2&ved=2ahUKEwi95e6piuiJAxX0gf0HHey3MUw4ChAzegQIZBAA#imgrc=sgHlahCx9OOyOM&imgdii=6_7BCMkOF0X1vM)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhacar&label=Profile%20views&color=0e75b6&style=flat" alt="dhacar" /> </p>
 
