@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakariye Mohamud Ali</h1>
 <h3 align="center">A passionate frontend developer from somalia</h3>
-<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/116207..."](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5622AQG25wZZR8ISMA%2Ffeedshare-shrink_2048_1536%2Ffeedshare-shrink_2048_1536%2F0%2F1721657503896%3Fe%3D2147483647%26v%3Dbeta%26t%3DBEYcudUkOaCcBKaTY-A1XKQpOs91LEecfCldFJ_2dsc&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmanimaranr_v2soft-azurenet-sapibpabap-activity-7221154969138122753-rOO9&docid=Av5ZyWSP8VzP5M&tbnid=sgHlahCx9OOyOM&vet=12ahUKEwi95e6piuiJAxX0gf0HHey3MUw4ChAzegQIZBAA..i&w=640&h=640&hcb=2&ved=2ahUKEwi95e6piuiJAxX0gf0HHey3MUw4ChAzegQIZBAA#imgrc=sgHlahCx9OOyOM&imgdii=6_7BCMkOF0X1vM)>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhacar&label=Profile%20views&color=0e75b6&style=flat" alt="dhacar" /> </p>
 
