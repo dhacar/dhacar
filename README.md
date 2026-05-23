@@ -20,8 +20,7 @@
 - 💻 Full Stack Developer 
 - ⚡ Building modern, high-performance web apps using **Next.js & TypeScript**.
 - 🤖 **AI Engineer** focused on creating intelligent, AI-powered applications.
-- 🌍 Based in Somalia and passionate about tech innovation
-- 🧠 Always learning and improving every day
+- 🧠 passionate about tech innovation and  always learning and improving every day
 
 ---
 
@@ -72,7 +71,6 @@ I am bridging the gap between development, AI, and security by focusing on:
 
 - 📧 Email: **ibnudhacar1@gmail.com**
 - 🌐 Portfolio: **Coming Soon**
-- 📝 Articles & Blogs: **dhacar.com**
 
 ---
 
