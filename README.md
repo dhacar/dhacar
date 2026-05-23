@@ -17,31 +17,54 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer focused on the **MERN Stack**
-- ⚡ Building modern web apps using **Next.js & TypeScript**
-- 🤖 Currently learning **AI Engineering & AI-powered applications**
+- 💻 Full Stack Developer 
+- ⚡ Building modern, high-performance web apps using **Next.js & TypeScript**.
+- 🤖 **AI Engineer** focused on creating intelligent, AI-powered applications.
 - 🌍 Based in Somalia and passionate about tech innovation
 - 🧠 Always learning and improving every day
 
 ---
 
-### 🌱 Currently Learning
 
-- Advanced **Next.js**
-- **TypeScript** best practices
-- **AI Engineering**
-- Scalable backend architecture
+### 🛡️ What I'm Currently Learning
+I am bridging the gap between development, AI, and security by focusing on:
+* **Application Security (AppSec):** Learning to write secure code and prevent OWASP Top 10 vulnerabilities.
+* **Network & OS Security:** Mastering Linux command line, network protocols, and traffic analysis.
+* **AI Security:** Exploring adversarial attacks, securing AI pipelines, and LLM vulnerabilities.
+
 
 ---
 
 ### 💬 Ask Me About
 
-- React & Next.js
-- MERN Stack
-- TypeScript
-- REST APIs
-- Frontend UI/UX
-- Full Stack Development
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Full-Stack & AI Engineering</h4>
+      <ul>
+        <li><strong>Core Tech:</strong> React, Next.js, & TypeScript</li>
+        <li><strong>Architecture:</strong> MERN Stack & REST APIs</li>
+        <li><strong>Design:</strong> Frontend UI/UX Development</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Creative Media Production</h4>
+      <ul>
+        <li><strong>Film:</strong> Short Films & Documentary Production</li>
+        <li><strong>Visuals:</strong> Graphics Design & Motion Animations</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛡️ Current Cybersecurity Focus</h4>
+      <ul>
+        <li><strong>Infrastructure:</strong> Basic Networking protocols & system architecture</li>
+        <li><strong>Security:</strong> Secure coding practices and vulnerability assessment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
